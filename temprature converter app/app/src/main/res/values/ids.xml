@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputEditText" type="id" />
+    <item name="celsiusRadioButton" type="id" />
+    <item name="fahrenheitRadioButton" type="id" />
+    <item name="convertButton" type="id" />
+    <item name="resultTextView" type="id" />
+</resources>

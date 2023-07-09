@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temprature Converter</string>
+    <string name="result_format">%s %s</string>
+
+</resources>
